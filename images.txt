@@ -1,5 +1,5 @@
-redis_exporter:v1.90.0
+docker.io/oliver006/redis_exporter:v1.90.0
 #支持私库
-docker.io/oliver006/
+public-images
 #支持指定架构
 --platform=linux/arm64
