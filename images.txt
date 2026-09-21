@@ -1,9 +1,1 @@
---platform=linux/arm64 docker.io/grafana/grafana:13.2.0
---platform=linux/arm64 docker.io/prom/alertmanager:v0.34.0
---platform=linux/arm64 docker.io/prom/mysqld-exporter:v0.20.0
---platform=linux/arm64 docker.io/grafana/loki:3.7.7
---platform=linux/arm64 docker.io/prom/prometheus:v3.13.2
---platform=linux/arm64 docker.io/prom/node-exporter:v1.12.1
---platform=linux/arm64 docker.io/prometheuscommunity/postgres-exporter:v0.20.1
---platform=linux/arm64 docker.io/grafana/promtail:3.6.11
---platform=linux/arm64 ghcr.io/iamseth/oracledb_exporter:0.6.0
+--platform=linux/arm64 docker.io/grafana/tempo:3.0.2
