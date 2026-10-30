@@ -1,1 +1,1 @@
---platform=linux/arm64 docker.io/liangyaobo/kingbase:v8r6-license
+--platform=linux/arm64 quay.io/oceanbase/oceanbase-ce:4.4.2.0-100000032026021017
