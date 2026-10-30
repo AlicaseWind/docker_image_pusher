@@ -1,1 +1,1 @@
---platform=linux/arm64 kylin:v10
+--platform=linux/arm64 docker.io/liangyaobo/kingbase:v8r6-license
